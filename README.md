@@ -1,4 +1,4 @@
-# Hi 👋, I'm Seweje Joshau
+# Hi 👋, I'm Seweje Joshua
 
 **Frontend Developer | Computer Science Graduate**  
 *Passionate about Clean UI & Great UX*
