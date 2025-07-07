@@ -20,6 +20,19 @@
 
 ---
 
+### 🚀 Featured Projects
+
+- **Project Name 1** — Brief description (e.g., A responsive portfolio website built with React and Bootstrap).  
+  [Live Demo](#)  
+
+- **Project Name 2** — Brief description (e.g., An e-commerce frontend with dynamic product filtering using JavaScript).  
+  [Live Demo](#)   
+
+- **Project Name 3** — Brief description (e.g., A task manager app with CRUD functionality built in React).  
+  [Live Demo](#) 
+
+---
+
 ### 📫 Contact Me
 - 📧 Email: [joshuaseweje2@gmail.com](mailto:joshuaseweje2@gmail.com)
 - 🔗 LinkedIn: [Joshua Seweje](https://www.linkedin.com/in/joshua-seweje-7746732a1)
